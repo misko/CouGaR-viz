@@ -15,6 +15,7 @@ Input
 
 Gene annotations file
 -----------
+Please see sample files in "gene_annotations"
 
 Genomic regions file
 -----------
